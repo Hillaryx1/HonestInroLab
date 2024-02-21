@@ -1,0 +1,20 @@
+.adContainer {
+    border: solid orange;
+    margin: 1em;
+    height: 32vh;
+    padding: 50px;
+}
+
+
+.leftarrow {
+    border: solid red;
+}
+.adTxt {
+    border: solid blue;
+}
+.adLink {
+    border: solid green;
+}
+.rightArrow {
+    border: solid red;
+}
